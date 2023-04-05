@@ -1,1 +1,1 @@
-es repozitory sheiqmna homework2-stvis
+This repository is created for davaleba_2
